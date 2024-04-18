@@ -1,0 +1,14 @@
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\bin\Debug\net8.0\CharacterClasses.exe
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\bin\Debug\net8.0\CharacterClasses.deps.json
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\bin\Debug\net8.0\CharacterClasses.runtimeconfig.json
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\bin\Debug\net8.0\CharacterClasses.dll
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\bin\Debug\net8.0\CharacterClasses.pdb
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\CharacterClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\CharacterClasses.AssemblyInfoInputs.cache
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\CharacterClasses.AssemblyInfo.cs
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\CharacterClasses.csproj.CoreCompileInputs.cache
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\CharacterClasses.dll
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\refint\CharacterClasses.dll
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\CharacterClasses.pdb
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\CharacterClasses.genruntimeconfig.cache
+C:\Users\xavnx\OneDrive\Desktop\Cooleg\DBAD\CharacterClasses\obj\Debug\net8.0\ref\CharacterClasses.dll
